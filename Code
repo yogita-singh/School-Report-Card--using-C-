@@ -3,7 +3,9 @@
 #include<stdio.h>
 #include<iostream>
 #include<curses.h>
+#include <bits/stdc++.h>
 using namespace std;
+
 class student
 {
 	int rollno, phy_marks, chem_marks, math_marks, eng_marks, cs_marks;
